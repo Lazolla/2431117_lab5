@@ -8,7 +8,7 @@ let books = [];
 
 // GET /whoami
 app.get('/whoami', (req, res) => {
-    res.json({ studentNumber: "12345678" });
+    res.json({ studentNumber: "2431117" });
 });
 
 // GET /books
